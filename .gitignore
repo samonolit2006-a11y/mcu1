@@ -1,8 +1,7 @@
 build/
-*.uf2
+**/build/
 *.elf
+*.uf2
 *.bin
 *.hex
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
+*.map
